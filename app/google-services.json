@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "893971379074",
+    "firebase_url": "https://spark-70df3.firebaseio.com",
+    "project_id": "spark-70df3",
+    "storage_bucket": "spark-70df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893971379074:android:a72249286d775373",
+        "android_client_info": {
+          "package_name": "com.android.shahryar.spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893971379074-e544bf8cuaa051g9jf53cvctd304sudk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.shahryar.spark",
+            "certificate_hash": "3f82babb059e29e2fe15a05abf0b9ef5004a79a0"
+          }
+        },
+        {
+          "client_id": "893971379074-oafqfidbc834869lnpapfakmveaql7n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKusCARQx2sF_o9B2t2CXHz-tJps3wsXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893971379074-oafqfidbc834869lnpapfakmveaql7n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

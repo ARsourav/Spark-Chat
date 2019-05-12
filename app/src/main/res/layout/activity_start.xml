@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android.shahryar.spark.StartActivity"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="245dp"
+        android:gravity="center"
+        android:text="Welcome to"
+        android:textColor="#ffffff"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/start_reg_btn"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="69dp"
+        android:background="#ffffff"
+        android:text="NEED A NEW ACCOUNT ?"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:text="Spark Chat"
+        android:textColor="#ffffff"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/start_login_btn"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="128dp"
+        android:background="@color/colorAccent"
+        android:text="ALREADY HAVE ACCOUNT ?"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>
+
